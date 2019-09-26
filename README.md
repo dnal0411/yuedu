@@ -1,6 +1,7 @@
 目录
 
-yuedu.txt  更新书源
+yuedu.txt  
+更新书源https://raw.githubusercontent.com/dnal0411/yuedu/master/yuedu.txt
 
 
 书源教程.txt
